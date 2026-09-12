@@ -92,8 +92,8 @@
   <p style="color: #6e7681; font-size: 14px; margin: -10px 0 20px 0;">GitHub Activity & Contributions</p>
   
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azka-style-css&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azka-style-css&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages">
   </p>
 </div>
 
