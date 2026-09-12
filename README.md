@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo">
 </div>
 
-<br><br>
+<br>
+<br>
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="./resource/intro (4).gif" alt="intro" title="intro"/>
@@ -20,6 +21,9 @@
 <div align="center" style="width: 100%; max-width: 100%; overflow: hidden; border-radius: 8px; margin-bottom: 30px;">
   <img src="./resource/github-header-banner.png" alt="GitHub Header Banner" style="width: 100%; height: auto; display: block;">
 </div>
+
+<br>
+<br>
 
 ## My favorite tools and technologies
 
