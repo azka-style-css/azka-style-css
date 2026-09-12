@@ -19,7 +19,7 @@
 </div>
 
 <div align="center" style="width: 100%; max-width: 100%; overflow: hidden; border-radius: 8px; margin-bottom: 30px;">
-  <img src="./resource/github-header-banner.png" alt="GitHub Header Banner" style="width: 100%; height: auto; display: block;">
+  <img src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" style="width: 100%; height: auto; display: block;">
 </div>
 
 <br>
