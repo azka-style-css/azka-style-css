@@ -1,13 +1,10 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80&blur=40&ixlib=rb-4.0.3" alt="Minimal Dark Banner" style="width:100%; height:auto; border-radius:8px; margin-bottom:20px;">
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80&blur=40&ixlib=rb-4.0.3" alt="Minimal Dark Banner" style="width:100%; height:auto; border-radius:8px; margin-bottom:30px;">
 </div>
 
-<!-- Name & Social Badges -->
+<!-- Social Badges -->
 <div align="center">
-  <h1>Muhammad Faizan</h1>
-  <p><code>Software Engineer & Philosopher</code></p>
-  
   <a href="https://github.com/[USERNAME]">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -20,22 +17,20 @@
   <a href="https://twitter.com/[USERNAME]">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter">
   </a>
-</div>
-
----
-
-<!-- Introduction -->
-<div align="center">
-  <h2>Hi there 👋, &lt; devs /&gt;</h2>
+  
+  <br><br>
+  
+  <h1 style="font-size: 48px; margin-bottom: 10px;">Hi there 👋, &lt; devs /&gt;</h1>
   
   <p>
     Nama saya adalah seorang <strong>pengamat</strong>—software engineer yang melihat kekacauan realitas dan berusaha memetakannya menjadi keteraturan melalui logika, desain, dan kode. Saya bekerja dengan passion di bidang web dan mobile development, dengan keahlian khusus dalam UI/UX design dan arsitektur sistem. Saat belajar, saya menikmati bermain catur dan membaca.
   </p>
 </div>
 
----
+<div align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=1F6FEB&style=flat" alt="divider" width="600" height="1">
+</div>
 
-<!-- Tech Stack -->
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   
@@ -51,11 +46,12 @@
   </p>
 </div>
 
----
+<div align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=1F6FEB&style=flat" alt="divider" width="600" height="1">
+</div>
 
-<!-- Philosophical Worldview -->
 <div align="center">
-  <h2>🧠 Pandangan Dunia</h2>
+  <h2 style="color: #ff69b4;">💭 Pandangan Dunia</h2>
   
   <p style="text-align: justify; max-width: 800px; margin: 0 auto; line-height: 1.8; color: #c9d1d9;">
     Saya menyadari bahwa alam semesta ini bisu dan tidak membawa makna objektif apa pun sejak awal. Namun, alih-alih menyerah pada keputusasaan atau berlindung di balik ilusi dogma sosial (sebuah <a href="https://en.wikipedia.org/wiki/Philosophical_suicide" target="_blank" style="color: #58a6ff; text-decoration: none;"><strong>BUNUH DIRI FILOSOFIS</strong></a>), saya memilih untuk memeluk <a href="https://en.wikipedia.org/wiki/Absurdism" target="_blank" style="color: #58a6ff; text-decoration: none;"><strong>ABSURDISME</strong></a>.
@@ -70,9 +66,10 @@
   </p>
 </div>
 
----
+<div align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=1F6FEB&style=flat" alt="divider" width="600" height="1">
+</div>
 
-<!-- GitHub Statistics -->
 <div align="center">
   <h2>📊 Statistics</h2>
   
@@ -82,9 +79,10 @@
   </p>
 </div>
 
----
+<div align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=1F6FEB&style=flat" alt="divider" width="600" height="1">
+</div>
 
-<!-- Footer -->
 <div align="center">
   <p style="font-size: 16px; margin-top: 40px;">
     <strong>☕ With Logic & Purpose from Indonesia</strong>
