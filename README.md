@@ -18,9 +18,19 @@
   <img src="./resource/intro (4).gif" alt="intro" title="intro"/>
 </div>
 
-<div align="center" style="width: 100%; max-width: 100%; overflow: hidden; border-radius: 8px; margin-bottom: 30px;">
-  <img src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" style="width: 100%; height: auto; display: block;">
+<div>
+  <img align="right" src="./resource/Gemini_Generated_Image_p4fakqp4fakqp4fa.png" alt="GitHub Header Banner" height="300" style="height: 300px; width: auto; border-radius: 8px;">
+
+  <br><br>
+  <p>Passionate about building efficient applications, minimalist UI/UX design, and continuous learning.</p>
+  <ul>
+    <li> <b>Education:</b> Software Engineering</li>
+    <li> <b>Focus:</b> C#, Python, & Web Development</li>
+    <li> <b>Interests:</b> Desktop Apps, UI/UX, & Backend Systems</li>
+    <li> <b>Location:</b> Indonesia</li>
+  </ul>
 </div>
+<br clear="both"/>
 
 <br>
 <br>
