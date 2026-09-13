@@ -28,10 +28,9 @@
   <p>Passionate about building efficient Websites, minimalist UI/UX design, and continuous learning.</p>
   <br>
   <ul>
-    <li> <b>Name:</b>      Azka C.S.C.</li>
-    <li> <b>Education:</b> Software Engineering</li>
+    <li> <b>Name:</b>      Azka</li>
+    <li> <b>Education:</b> Software Development, Literature & Philosophy</li>
     <li> <b>Focus:</b>     Laravel, CSS, JavaScript, & MySQL Databases</li>
-    <li> <b>Interests:</b> Desktop Apps, UI/UX, & Backend Systems</li>
     <li> <b>Location:</b>  Indonesia</li>
     <li> <b>Habit:</b>     Skeptical anywhre</li>
   </ul>
