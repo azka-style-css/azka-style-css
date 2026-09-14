@@ -1,15 +1,23 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
   schedule:
-    # Otomatis berjalan setiap hari jam 00:00 UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Mengaktifkan tombol 'Run workflow' manual
+    # Berjalan otomatis setiap 3 jam
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual
 
 jobs:
   update-readme:
+    name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+      - name: WakaTime Readme Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TIME_EXPIRED: "true"
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          SHOW_TOTAL_CODE_TIME: "true"
