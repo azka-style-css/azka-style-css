@@ -143,10 +143,3 @@
   <img src="https://github-stats-api-xi.vercel.app/api/stats?username=azka-style-css" width="49%" />
   <img src="https://github-stats-api-xi.vercel.app/api/top-langs?username=azka-style-css&v=2" width="49%" />
 </p>
-
-<br>
-
-## Weekly Shipping Log
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
