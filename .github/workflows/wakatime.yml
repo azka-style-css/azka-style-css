@@ -1,0 +1,15 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Otomatis berjalan setiap hari jam 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Mengaktifkan tombol 'Run workflow' manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
