@@ -2,9 +2,11 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    # Berjalan otomatis setiap 3 jam
     - cron: '0 */3 * * *'
-  workflow_dispatch: # Memungkinkan tombol 'Run workflow' manual
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -16,8 +18,5 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TIME_EXPIRED: "true"
-          SHOW_TITLE: "true"
-          BLOCKS: "░▒▓█"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "true"
